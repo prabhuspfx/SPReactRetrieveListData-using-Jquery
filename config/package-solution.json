@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-react-retrieve-list-data-client-side-solution",
+    "id": "e193bd20-cec7-49ea-bf5a-d08a7b8596cd",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-react-retrieve-list-data.sppkg"
+  }
+}
